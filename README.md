@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hola, soy Daniel Villacres 👋
 
-<!--
-**danielvill/danielvill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Estudiante de Desarrollo de Software
 
-Here are some ideas to get you started:
+Estoy a punto de graduarme en Desarrollo de Software. Mi experiencia durante mis estudios ha sido increíblemente enriquecedora.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experiencia Profesional
+
+Realicé prácticas profesionales en tres instituciones, desempeñando distintos roles:
+
+- Mantenimiento de PC
+- Instalación de cámaras
+- Administración de pedidos y cobros de los clientes
+
+## 💻 Habilidades de Programación
+
+Manejé y realicé varios proyectos con los lenguajes que me enseñaron en el instituto:
+
+- Python
+- Java
+- C#
+
+## 🚀 Logros
+
+Durante una de mis prácticas, logré que se implementara un sistema de votaciones, lo cual fue una experiencia de aprendizaje increíble.
+
+## 🛠️ Proyecto Actual
+
+Actualmente, estoy implementando un sistema de cobranzas con Python Flask.
+
+## 🎯 Objetivo
+
+Estoy emocionado por lo que viene después de la graduación y estoy ansioso por aplicar lo que he aprendido en el mundo real.
+
+¡Gracias por visitar mi perfil!
