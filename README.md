@@ -2,7 +2,7 @@
 
 ## 🎓 Estudiante de Desarrollo de Software
 
-Estoy a punto de graduarme en Desarrollo de Software. Mi experiencia durante mis estudios ha sido increíblemente enriquecedora.
+Soy tecnologo en Desarrollo de Software. Mi experiencia durante mis estudios ha sido increíblemente enriquecedora.
 
 ## 💼 Experiencia Profesional
 
@@ -17,8 +17,14 @@ Realicé prácticas profesionales en tres instituciones, desempeñando distintos
 Manejé y realicé varios proyectos con los lenguajes que me enseñaron en el instituto:
 
 - Python
+- html
+- Javascritps
+- css
 - Java
 - C#
+- MongoDB
+- SQL
+- PHP
 
 ## 🚀 Logros
 
