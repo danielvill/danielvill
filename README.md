@@ -22,7 +22,6 @@
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" alt="Google Apps Script" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/A/appsheet-logo-373467B7E4-seeklogo.com.png" alt="AppSheet" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" width="40" height="40"/>
 </p>
 
